@@ -8,7 +8,7 @@
 </p>
 
 # 💻 About Me:
-Hi there! I'm a passionate Cybersecurity Enthusiast and C++ Programmer, deeply interested in securing systems and solving complex problems using Data Structures and Algorithms. I love exploring real-world attack scenarios, mastering security tools, and continuously sharpening my technical skills.<br><br>    🔐 Focus: Cybersecurity, Ethical Hacking, Network Security<br><br>    🧠 Strong in: Computer Network, Linux, and Security Concepts<br><br>    🛠️ Tools: SQLmap, Nmap, Burp Suite, Metasploit, Nikto<br><br>    🚀 Currently learning: Web Exploitation, Malware Analysis<br><br>    📚 Always open to learning and collaborating on tech projects<br><br>    🌐 Believer in: "Hack to Learn, Not to Harm"
+Hi there! I'm a passionate Cybersecurity Enthusiast and C++ Programmer, deeply interested in securing systems and solving complex problems using Data Structures and Algorithms. I love exploring real-world attack scenarios, mastering security tools, and continuously sharpening my technical skills.<br><br>    🔐 Focus: Cybersecurity, Ethical Hacking, Network Security<br><br>    🧠 Strong in: Computer Network, Linux, and Security Concepts<br><br>    🛠️ Tools: SQLmap, Nmap, Burp Suite, Metasploit, Nikto<br><br>    🚀 Currently learning: Web Exploitation, DSA(C++)<br><br>    📚 Always open to learning and collaborating on tech projects<br><br>    🌐 Believer in: "Hack to Learn, Not to Harm"
 
 ---
 
