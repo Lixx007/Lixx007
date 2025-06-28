@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.gifer.com/BHXl.gif" width="80" style="border-radius:10px;" />
+  <img src="https://i.gifer.com/EKk3.gif" width="100" style="border-radius:10px;" />
   <br>Terminal Access: <code>GRANTED</code>
 </h1>
 
